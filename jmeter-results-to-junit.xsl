@@ -8,10 +8,6 @@
 	and you can then view the JTL in a browser
 -->
 
-<testsuite>
-	<xsl:attribute name="name">QAWorkshop</xsl:attribute>
-</testsuite>
-
 <xsl:output method="html" indent="yes" encoding="US-ASCII" doctype-public="-//W3C//DTD HTML 4.01 Transitional//EN" />
 
 <!-- Defined parameters (overrideable) -->
