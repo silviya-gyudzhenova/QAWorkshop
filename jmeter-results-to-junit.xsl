@@ -8,8 +8,6 @@
 	and you can then view the JTL in a browser
 -->
 
-<xsl:attribute name="name">QAWorkshop</xsl:attribute>
-
 <testsuite>
 	<xsl:attribute name="name">QAWorkshop</xsl:attribute>
 </testsuite>
